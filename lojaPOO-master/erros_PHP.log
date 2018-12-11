@@ -1,0 +1,2 @@
+[11-Dec-2018 01:09:07 Europe/Berlin] PHP Fatal error:  Call to undefined method CategoriaController::inserir() in C:\xampp\htdocs\faculdade\poo2\lojaPOO-master\index.php on line 39
+[11-Dec-2018 01:13:05 Europe/Berlin] PHP Fatal error:  Call to a member function prepare() on null in C:\xampp\htdocs\faculdade\poo2\lojaPOO-master\model\CategoriaDAO.php on line 19
